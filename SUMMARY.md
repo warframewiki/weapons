@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Praedos](README.md)
+* [Index](README.md)
+* [Praedos](<README (1).md>)
 * [Spectra vandal](spectra-vandal.md)
 * [Dual Toxocyst](dual-toxocyst.md)
 * [Torid](torid.md)

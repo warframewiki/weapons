@@ -1,12 +1,17 @@
-# Praedos
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: false
+  outline:
+    visible: false
+  pagination:
+    visible: false
+---
 
-build inaros, used also on trinity
+# Index
 
-<figure><img src=".gitbook/assets/image (12).png" alt=""><figcaption><p>build</p></figcaption></figure>
-
-incarnol (+50% slam radius, 2 e 3 a caso, 100% heavy attack wind up)
-
-ground slam per attivare dispatch overdrive e correre come un dannato
-
-le mod all'1 e 0 SERVONO per proccare sempre buzzkill con inaros\
-fa anche da statstick e accolite killer
+<table data-view="cards" data-full-width="true"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td></td><td>Warframes</td><td></td><td><a href="https://app.gitbook.com/o/OD7ZYryZ0e1RetwxdkBL/s/jFxtIVujNgPXtpdTNkUS/">Warframes</a></td><td><a href=".gitbook/assets/eee035bec511a2e4204546c8636cf320.png">eee035bec511a2e4204546c8636cf320.png</a></td></tr><tr><td></td><td>Weapons</td><td></td><td><a href="https://app.gitbook.com/o/OD7ZYryZ0e1RetwxdkBL/s/mVZYg4ro0zpRehSXa4NR/">Weapons</a></td><td><a href=".gitbook/assets/Screenshot 2024-05-22 095638.png">Screenshot 2024-05-22 095638.png</a></td></tr><tr><td></td><td>Companions</td><td></td><td><a href="https://app.gitbook.com/o/OD7ZYryZ0e1RetwxdkBL/s/DsKnhiemKHzYADgaH4Ah/">Companions</a></td><td><a href=".gitbook/assets/Screenshot 2024-05-22 095817.png">Screenshot 2024-05-22 095817.png</a></td></tr></tbody></table>
