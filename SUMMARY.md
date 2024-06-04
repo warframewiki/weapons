@@ -15,3 +15,5 @@
 * [Tennet Arca Plasmor](tennet-arca-plasmor.md)
 * [Scourge](scourge.md)
 * [Bo prime](bo-prime.md)
+* [Tenet Glaxion](tenet-glaxion.md)
+* [Tenet Plinx](tenet-plinx.md)
