@@ -17,3 +17,4 @@
 * [Bo prime](bo-prime.md)
 * [Tenet Glaxion](tenet-glaxion.md)
 * [Tenet Plinx](tenet-plinx.md)
+* [Tenet Spirex](tenet-spirex.md)
