@@ -18,3 +18,6 @@
 * [Tenet Glaxion](tenet-glaxion.md)
 * [Tenet Plinx](tenet-plinx.md)
 * [Tenet Spirex](tenet-spirex.md)
+* [Tenet Flux](tenet-flux.md)
+* [Tenet Cycron](tenet-cycron.md)
+* [Kuva shildeg](kuva-shildeg.md)
