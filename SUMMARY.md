@@ -21,3 +21,4 @@
 * [Tenet Flux](tenet-flux.md)
 * [Tenet Cycron](tenet-cycron.md)
 * [Kuva shildeg](kuva-shildeg.md)
+* [Kuva Seer](kuva-seer.md)
