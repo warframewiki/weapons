@@ -23,3 +23,4 @@
 * [Kuva shildeg](kuva-shildeg.md)
 * [Kuva Seer](kuva-seer.md)
 * [Kuva Tonkor](kuva-tonkor.md)
+* [Kuva Brakk](kuva-brakk.md)
