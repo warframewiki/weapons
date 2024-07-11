@@ -25,3 +25,4 @@
 * [Kuva Tonkor](kuva-tonkor.md)
 * [Kuva Brakk](kuva-brakk.md)
 * [Kuva Quartakk](kuva-quartakk.md)
+* [Kuva Twin Stubbas](kuva-twin-stubbas.md)
