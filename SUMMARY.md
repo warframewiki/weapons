@@ -26,3 +26,6 @@
 * [Kuva Brakk](kuva-brakk.md)
 * [Kuva Quartakk](kuva-quartakk.md)
 * [Kuva Twin Stubbas](kuva-twin-stubbas.md)
+* [Kuva Kohm](kuva-kohm.md)
+* [Kuva Kraken](kuva-kraken.md)
+* [Kuva Chakkur](kuva-chakkur.md)
